@@ -7,17 +7,13 @@ The agenda for the day was as follows.
   - Anna KVS and Cloudburst FaaS: Chenggang Wu
   - Compartmentalizing and Autoscaling Consensus: Michael Whittaker, Kaushik Shivakumar and David Chu
   - Hydro's Faceted Approach to Cloud Programming: Alvin Cheung
-
-
   
 - Microsoft Research [Data Platforms and Analytics](https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/).
-<br>
   - Microsoft SurfaceFleet: Video
   - FASTER: Badrish Chandramouli
   - AMBROSIA: Jonathan Goldstein
 
 - Discussion.
-<br>
 
 
 ## Slack Discussion
