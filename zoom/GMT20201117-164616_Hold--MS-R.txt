@@ -1,0 +1,10 @@
+00:54:13	Carlo Aldo Curino:	I was hoping for folks to follow-suit so you get a mostsensus
+00:54:20	Joe Hellerstein:	nice concept!
+00:54:36	Joe Hellerstein:	We heard it here: Curino’s Mostsensus property.
+00:54:59	Carlo Aldo Curino:	Mark my word this is going to be HUGE!
+00:55:29	Natacha Crooks:	In all seriousness, this term actually works *so well* for blockchain systems. 
+00:55:42	Joe Hellerstein:	Move substantive (??) discussion to slack please!
+00:56:06	Carlo Aldo Curino:	:-)
+01:06:50	David Chu:	he's frozen
+01:08:52	David Chu:	i could
+02:40:55	Alvin Cheung:	for sure!
